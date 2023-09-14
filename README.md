@@ -2,7 +2,7 @@
 
 ## Intro
 
-Junior Developer Since 2022, working mainly with Javascript projects using:
+Junior Developer Since 2022, working mainly with JavaScript projects using:
 
  - React.js (Next.js)
  - Node.js (Express, Nest.js)
