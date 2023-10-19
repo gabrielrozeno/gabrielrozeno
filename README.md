@@ -5,5 +5,5 @@
 Junior Developer Since 2022, working mainly with JavaScript projects using:
 
  - React.js (Next.js)
- - Node.js (Express, Nest.js)
+ - Node.js (Express)
  - React Native
