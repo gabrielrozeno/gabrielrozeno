@@ -2,8 +2,7 @@
 
 ## Intro
 
-Junior Developer Since 2022, working mainly with JavaScript projects using:
+Junior Developer Since 2022, working mainly in the Back End using JavaScript and:
 
  - React.js (Next.js)
  - Node.js (Express)
- - React Native
