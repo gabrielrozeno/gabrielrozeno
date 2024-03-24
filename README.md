@@ -2,8 +2,7 @@
 
 ## Intro
 
-Junior Developer Since 2022, working mainly in the Back End using JavaScript and:
+Backend Developer Since 2023, working mainly in the Back End using JavaScript and:
 
- - React.js (Next.js)
  - NestJS
  - Node.js (Express)
