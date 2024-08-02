@@ -2,7 +2,4 @@
 
 ## Intro
 
-Backend Developer Since 2023, working mainly in the Back End using JavaScript and:
-
- - NestJS
- - Node.js (Express)
+Developer Since 2023, working mainly with Laravel to create awesome webistes and apps.
